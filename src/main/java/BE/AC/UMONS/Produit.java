@@ -7,4 +7,3 @@ public class Produit {
         return a*b;
     }
 }
-# comment
